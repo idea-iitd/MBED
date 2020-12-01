@@ -1,5 +1,5 @@
 # Balance Maximization in Signed Networks via Edge Deletions
-Supplementary code for the work by the same name submitted to WSDM 2021.
+Supplementary code for the work by the same name accepted to appear at WSDM 2021 (preprint is available [here](https://arxiv.org/abs/2010.10991))
 
 # Data & tools
 We use 8 datasets (signed networks) in total all of which are available at <www.konect.cc>. To obtain the actual list of datasets used, please refer the paper. The folder **Datasets/** gives an example of two such datasets (Bitcoin graphs).
